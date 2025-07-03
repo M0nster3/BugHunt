@@ -1,0 +1,2 @@
+# BugHunt
+Monitoring Bounty Platform
